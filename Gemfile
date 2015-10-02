@@ -35,8 +35,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
   gem 'bootstrap-will_paginate', '~> 0.0.10'
   gem 'carrierwave', '~> 0.10.0' #upload images
   gem 'mini_magick', '~> 3.8.0' #resize images
-  gem 'fog', '~> 1.26.0'    	#upload images to cloud
-  gem 'carrierwave-aws'
+  gem 'fog', '~> 1.24.0'    	#upload images to cloud
+  
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
