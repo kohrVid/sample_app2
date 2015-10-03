@@ -326,7 +326,7 @@ DEPENDENCIES
   carrierwave (~> 0.10.0)
   coffee-rails (~> 4.1.0)
   faker (~> 1.4.2)
-  fog (~> 1.26)
+  fog (~> 1.34.0)
   guard-minitest (~> 2.3.1)
   jbuilder (~> 2.2.3)
   jquery-rails (~> 4.0.3)
