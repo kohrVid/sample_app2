@@ -17,4 +17,3 @@
 bundler_stubs/
 /public/uploads
 /config/database.yml
-Rakefile
