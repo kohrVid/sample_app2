@@ -35,7 +35,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
   gem 'bootstrap-will_paginate', '~> 0.0.10'
   gem 'carrierwave', '~> 0.10.0' #upload images
   gem 'mini_magick', '~> 3.8.0' #resize images
-  gem 'fog', '~> 1.34.0'  	#upload images to cloud; anything earlier than 1.34 won't work with the Frankfurt bucket.
+  gem 'fog', '~> 1.34.0'  	#upload images to cloud; anything earlier than 1.34 won't work with the Frankfurt S3 buckets.
   
 
 group :development, :test do
